@@ -2,7 +2,7 @@
 
 Este projeto é uma página web simples em HTML e CSS que apresenta uma receita de cupcake de café com chantilly. O design é responsivo e usa fontes externas para deixar a apresentação mais elegante.
 
-[Cupcake de café com chantilly](assets/exibicao-imagem.png)
+![Cupcake de café com chantilly](assets/exibicao-imagem.png)
 
 ## Estrutura do Projeto
 
